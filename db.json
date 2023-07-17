@@ -1,0 +1,200 @@
+{
+    "users": [
+      {
+        "userName": "ahmedelbahy",
+        "age": 26,
+        "phone": "01207933578",
+        "email": "ahmedelbahy06@gmail.com",
+        "password": "12345678",
+        "id": 1
+      },
+      {
+        "userName": "mt2023",
+        "age": 26,
+        "phone": "01207933578",
+        "email": "mt@gmail.com",
+        "password": "12345678",
+        "id": 2
+      },
+      {
+        "userName": "ahmed",
+        "age": 25,
+        "phone": "01207933578",
+        "email": "ahmedxxxelbahy@gmail.com",
+        "password": "123456789",
+        "id": 3
+      }
+    ],
+    "Questions": [
+      {
+        "id": 1,
+        "question": "What is the full form of MVC?",
+        "options": [
+          "Model View Controller",
+          "Most Valuable Code",
+          "Managed Virtual Component",
+          "Microsoft Visual C#"
+        ],
+        "correctAnswer": "Model View Controller"
+      },
+      {
+        "id": 2,
+        "question": "What is the command to create a new Angular project?",
+        "options": [
+          "ng create",
+          "ng generate",
+          "ng new",
+          "ng build"
+        ],
+        "correctAnswer": "ng new"
+      },
+      {
+        "id": 3,
+        "question": "What is the keyword used in C# to define a class?",
+        "options": [
+          "class",
+          "struct",
+          "object",
+          "interface"
+        ],
+        "correctAnswer": "class"
+      },
+      {
+        "id": 4,
+        "question": "Which of the following is not a TypeScript primitive data type?",
+        "options": [
+          "string",
+          "boolean",
+          "number",
+          "array"
+        ],
+        "correctAnswer": "array"
+      },
+      {
+        "id": 5,
+        "question": "What is the purpose of the 'async' keyword in C#?",
+        "options": [
+          "To indicate an asynchronous method",
+          "To define a class as abstract",
+          "To handle exceptions",
+          "To specify a base class"
+        ],
+        "correctAnswer": "To indicate an asynchronous method"
+      },
+      {
+        "id": 6,
+        "question": "What is the default access modifier for class members in C#?",
+        "options": [
+          "public",
+          "private",
+          "protected",
+          "internal"
+        ],
+        "correctAnswer": "private"
+      },
+      {
+        "id": 7,
+        "question": "Which directive is used to import Angular modules?",
+        "options": [
+          "import",
+          "require",
+          "use",
+          "include"
+        ],
+        "correctAnswer": "import"
+      },
+      {
+        "id": 8,
+        "question": "What is the purpose of the 'using' statement in C#?",
+        "options": [
+          "To include namespaces",
+          "To create a new object",
+          "To define a class",
+          "To declare a variable"
+        ],
+        "correctAnswer": "To include namespaces"
+      },
+      {
+        "id": 9,
+        "question": "Which operator is used for null coalescing in C#?",
+        "options": [
+          "??",
+          "++",
+          "&&",
+          "||"
+        ],
+        "correctAnswer": "??"
+      },
+      {
+        "id": 10,
+        "question": "What is the purpose of the 'ngOnInit' lifecycle hook in Angular?",
+        "options": [
+          "To initialize component properties",
+          "To handle form submissions",
+          "To make HTTP requests",
+          "To destroy the component"
+        ],
+        "correctAnswer": "To initialize component properties"
+      },
+      {
+        "id": 11,
+        "question": "What is the syntax for a single-line comment in C#?",
+        "options": [
+          "//",
+          "/* */",
+          "#",
+          "--"
+        ],
+        "correctAnswer": "//"
+      },
+      {
+        "id": 12,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "options": [
+          "ng generate component",
+          "ng new component",
+          "ng create component",
+          "ng add component"
+        ],
+        "correctAnswer": "ng generate component"
+      },
+      {
+        "id": 13,
+        "question": "What is the default binding mode in Angular?",
+        "options": [
+          "One-way binding",
+          "Two-way binding",
+          "Three-way binding",
+          "No binding"
+        ],
+        "correctAnswer": "One-way binding"
+      },
+      {
+        "id": 14,
+        "question": "Which keyword is used to declare a constant variable in C#?",
+        "options": [
+          "const",
+          "let",
+          "var",
+          "static"
+        ],
+        "correctAnswer": "const"
+      },
+      {
+        "id": 15,
+        "question": "What is the purpose of the 'async' pipe in Angular?",
+        "options": [
+          "To handle asynchronous operations in templates",
+          "To define a CSS class",
+          "To bind data to component properties",
+          "To apply animation effects"
+        ],
+        "correctAnswer": "To handle asynchronous operations in templates"
+      }
+    ],
+    "account": [
+      {
+        "id": 1
+      }
+    ]
+  }
